@@ -1,7 +1,7 @@
 # Configurations
 title:            나의 공부 블로그
-longtitle:        이건 뭐야 또
-author:           HE Tao
+longtitle:        hi
+author:           Jihwan
 email:            kimjih1130@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
